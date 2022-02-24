@@ -48,7 +48,7 @@ BinaryTreeNode<int>* takeInputlevelWise(){
            pendingNodes.push(child);
        }
    }
-   return root;
+   ;
 }
 BinaryTreeNode<int>* takeInput(){
    int rootData;
